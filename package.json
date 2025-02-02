@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-be-regular",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "botkit": "^4.15.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nools": "^0.4.4"
+  }
+}
